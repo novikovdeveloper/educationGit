@@ -40,6 +40,8 @@ git restore -- file1.txt - Если нужно затереть изменени
 
 git diff --staged - показывает какие файлы готовы к комиту и какие изменения в них произошли
 
+.gitingore - добавляет туда файлы, которе хотим чтобы не заливались в гит
+
 copy zzzzllleee.log logs - скопируем  файл в logs с помощью cp 
 
 git clone https://github.com/novikovdeveloper/educationGit.git - команда для клонирования, с ссылкой на репу 
