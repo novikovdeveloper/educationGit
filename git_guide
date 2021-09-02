@@ -66,3 +66,5 @@ git branch - показывакт в какой ветке мы находимс
 git branch -d fix_error - удаляем указанную ветку 
 
 git checkout -b denis_fix_error - короткий способ создать ветку и перейти в нее сразу 
+
+git merge denis_fix_error - соединяем ветки 
